@@ -1,0 +1,6 @@
+{
+  "name": "Chennai Move",
+  "description": "Unified Chennai transit companion for elderly & youth commuters across MTC, CMRL Metro, and Suburban Rail",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
